@@ -7,6 +7,6 @@ System.out.println("Hello Good Evening");
 System.out.println("Welcome to Hello World");
 for(i in range(10))
 {
-System.out.println("Hello WOrld!!!")
+System.out.println("Hello WOrld!!!");
 }
 }
